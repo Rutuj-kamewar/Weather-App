@@ -7,4 +7,4 @@ Features:
 Real-time weather updates
 User-friendly interface
 Demo:
-View Demo
+[View Demo](https://rutuj-kamewar.github.io/Weather-App/)
